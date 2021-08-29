@@ -246,3 +246,23 @@ if __name__ == '__main__':
 ##### <a name="Tables_Creating"></a>
 
 # Создание таблиц
+
+
+
+##### <a name="Hyperlinks"></a>
+
+# Гиперссылки
+
+
+
+##### <a name="Images"></a>
+
+# Изображения
+
+
+
+##### <a name="Specials"></a>
+
+# Специальные вставки
+
+![map](http://staticmap.openstreetmap.de//staticmap.php?center=51.50131,-0.12028&zoom=17&size=350x350&maptype=osmrenderer "подпись")
