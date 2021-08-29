@@ -265,4 +265,4 @@ if __name__ == '__main__':
 
 # Специальные вставки
 
-![map](http://staticmap.openstreetmap.de//staticmap.php?center=51.50131,-0.12028&zoom=17&size=350x350&maptype=osmrenderer "подпись")
+![map](https://www.openstreetmap.org/#map=9/51.9189/55.4343)
