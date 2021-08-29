@@ -265,4 +265,4 @@ if __name__ == '__main__':
 
 # Специальные вставки
 
-![map](https://www.openstreetmap.org/#map=9/51.9189/55.4343)
+![map](https://www.openstreetmap.org/#map=9/51.9189/55.4343)1
