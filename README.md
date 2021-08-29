@@ -265,5 +265,4 @@ if __name__ == '__main__':
 
 # Специальные вставки
 
-![map](http://staticmap.openstreetmap.de//staticmap.php?center=51.9189,55.4343&zoom=9&size=350x350&maptype=osmrenderer)
-
+![progress](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=28&leftFill=%23FF0000 "progress")
