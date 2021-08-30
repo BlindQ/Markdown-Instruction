@@ -318,5 +318,9 @@ Markdown поддерживает возможность разметки таб
 
 ```
 [Лого Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/1200px-Markdown-mark-solid.svg.png)
+```
+
+В результате на экране появится следующее изображение:
+[Лого Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/1200px-Markdown-mark-solid.svg.png)
 
 
