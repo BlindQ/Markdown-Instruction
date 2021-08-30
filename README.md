@@ -322,5 +322,5 @@ Markdown поддерживает возможность разметки таб
 
 В результате на экране появится следующее изображение:</br>
 >![Лого Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/1200px-Markdown-mark-solid.svg.png)
->![Видеоконтент](https://www.youtube.com/watch?v=P8wD7cnvywo&ab_channel=%D0%90%D1%80%D1%85%D0%B8%D0%B2X)
 
+<video>https://www.youtube.com/watch?v=ID</video>
