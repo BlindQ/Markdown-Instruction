@@ -323,4 +323,14 @@ Markdown поддерживает возможность разметки таб
 В результате на экране появится следующее изображение:</br>
 >![Лого Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/1200px-Markdown-mark-solid.svg.png)
 
-[![asciicast](https://asciinema.org/a/113463.png)](https://asciinema.org/a/113463)
+Аналогичным образом можно производить вставку gif-анимаций. 
+
+Так же Markdown поддерживает использование эмоджи. Процесс их размещения схож с аналогичными из Discord. Кодовое слово эмоджи следует разместить между символами двоеточия. Например:
+
+```
+:man:
+```
+
+В результате даст:
+
+> :man:
