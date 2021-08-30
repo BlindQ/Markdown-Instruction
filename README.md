@@ -317,10 +317,10 @@ Markdown поддерживает возможность разметки таб
 Схожим, с размещением гиперссылок, образом, производится установка изображений в тексте. Для этого в качестве ссылки следует использовать относительный или абсолютный путь до картинки. Например:
 
 ```
-[Лого Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/1200px-Markdown-mark-solid.svg.png)
+![Лого Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/1200px-Markdown-mark-solid.svg.png)
 ```
 
 В результате на экране появится следующее изображение:
-[Лого Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/1200px-Markdown-mark-solid.svg.png)
+![Лого Markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Markdown-mark-solid.svg/1200px-Markdown-mark-solid.svg.png)
 
 
