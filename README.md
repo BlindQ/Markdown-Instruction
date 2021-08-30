@@ -308,7 +308,9 @@ Markdown поддерживает возможность разметки таб
 Советую перейти на [сайт](https://google.com)
 
 Советую перейти на [сайт][1]
-[1]:(https://google.com)
+
+
+[1]: https://google.com
 
 ##### <a name="Media"></a>
 
